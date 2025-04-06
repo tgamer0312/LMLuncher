@@ -1,80 +1,47 @@
-<p align="center"><img src="../src/assets/images/icon.png" alt="icon-launcher"></p>
+🚀 LMLuncher - Launcher Personalizado para Minecraft
+LMLuncher é um launcher customizado de Minecraft, desenvolvido para atender servidores com mods, personalização avançada e integração com Twitch. Perfeito para comunidades que desejam controle total sobre a experiência dos jogadores.
 
-<h1 align="center">CraftLaunch</h1>
+🎮 Funcionalidades
+✅ Suporte a Forge e mods personalizados
 
-[<p align="center">]()
-![GitHub all releases](https://img.shields.io/github/downloads/luuxis/Selvania-Launcher/total?style=for-the-badge)
-![Discord](https://img.shields.io/discord/819729377650278420?style=for-the-badge)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/luuxis/Selvania-Launcher?style=for-the-badge)
-[<p align="center">]()
-![GitHub forks](https://img.shields.io/github/forks/luuxis/Selvania-Launcher?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/luuxis/Selvania-Launcher?style=for-the-badge)
+🛠️ Atualizações automáticas de mods e configs
 
-<p align="center">
-    <a href="http://discord.luuxis.fr">
-        <img src="https://invidget.switchblade.xyz/e9q7Yr2cuQ">
-    </a>
-</p>
+🌐 Integração com canal da Twitch
 
----
-### **<ins><p align="center">Conditions d'utilisation:</p>**
-- Pour utiliser le code vous devez faire un fork du projet.
-- Pour utiliser le code votre code doit tout le temps être public.
-- Pour utiliser le code toute mention originale de la licence doit être gardé.
-- Pour utiliser le code vous devez garder la licence originale.
----
+🎨 Interface moderna e amigável (baseada em Electron)
 
-### **<ins><p align="center">Fonctionnalitées du launcher :</p>**
+🔐 Autenticação segura com mojang e Microsoft
 
-- ✅ Mise à jour automatiques via github.
+📁 Gerenciamento de perfis, mods e versões
 
-- 🔴 Option pour mettre le launcher en maintenance.
+💬 Personalização via arquivos de configuração JSON
 
-- 🔒 Authentification Microsoft.
+📦 Tecnologias Utilizadas
+Java (para integração com o minecraft-java-core)
 
-- ⛏️ Supporte toutes versions de Minecraft 1.0 > latest.
+Electron (interface gráfica cross-platform)
 
-- 📦 Supporte les version moddées Forge, NeoForge, LegacyFabric, FabricMC et Quilt
+Node.js (para backend leve e dinâmico)
 
-- 📰 Fil d'actualité intégré nativement au launcher.
+React/Tailwind (UI clean e responsiva)
 
-- ⚙️ Gestion intuitive des paramètres, y compris un panneau de configuration Java.
+GitHub Actions (deploy automatizado)
 
-- 🟢 Statut serveur complet.
+📂 Repositório
+👉 Acesse o projeto: LMLuncher no GitHub
 
-    - Opérationnel ou hors ligne.
-    
-    - Nombres de joueurs connectés.
+💡 Em desenvolvimento...
+Estamos implementando novas funcionalidades como:
 
-- ☕ Installation de Java automatique.
+Sistema de notícias e changelog interno
 
-    - Si vous avez installé une version incompatible de Java, nous installerons la bonne pour vous.
-    
-    - Vous n'avez pas besoin d'avoir Java installé pour exécuter le launcher.
+Atualização de mods com um clique
 
-Ce n'est pas une liste exhaustive. Installez le launcher pour voir tout ce qu'il peut faire !
+Suporte para modpacks múltiplos
 
-Vous aimez le projet ? Laissez une étoile ⭐ sur le repo !
+Detecção automática de erros de modloader
 
----
+🤝 Contribua!
+Aceitamos PRs, sugestões e ideias da comunidade!
+Clone, teste e envie sua contribuição 💻
 
-### **<ins><p align="center">Téléchargement :</p>**
-
-Vous pouvez télécharger le launcher à partir des [Releases GitHub](../../../releases).
-
-Plateformes supportées :
-
-- Windows 
-- Linux
-- MacOS
-
-Si vous téléchargez à partir des Releases, sélectionnez le programme d'installation de votre système.
-
- Plateforme | Fichier |
-| -------- | ---- |
-| Windows x64 | `Selvania-Launcher-win-x64.exe ` |
-| macOS x64 | `Selvania-Launcher-mac-x64.dmg` |
-| macOS arm64 | `Selvania-Launcher-mac-arm64.dmg` |
-| Linux x64 | `Selvania-Launcher-linux-x86_64.AppImage` |
-
----
